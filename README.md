@@ -8,6 +8,17 @@ This project analyzes restaurant order data using SQL to uncover insights relate
 The objective is to simulate a real-world data analysis workflow and derive meaningful business insights.
 
 ---
+---
+
+## 📚 Project Source
+
+This project is based on a guided analytics project from **Maven Analytics**.
+
+The dataset and business questions were provided as part of a structured learning project, which was then independently solved using SQL.
+
+---
+
+---
 
 ## 📊 Dataset Description
 
